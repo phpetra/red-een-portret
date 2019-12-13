@@ -9,6 +9,8 @@ use Cocur\Slugify\Slugify;
 
 final class Helper
 {
+    public const NO_LETTER = '0';
+
     public static function fullName(array $data): string
     {
         $prefix = ' ';
@@ -43,7 +45,7 @@ final class Helper
         }
 
         if (! $letter || !ctype_alpha($letter)) {
-            $letter = '_';
+            $letter = self::NO_LETTER;
         }
         return $letter;
     }
@@ -51,7 +53,6 @@ final class Helper
     public static function determineSlug(array $person):string
     {
         $slugify = new Slugify();
-        //$uri = '?letter=' . self::determineLetter($person);
         return $slugify->slugify(self::sortableName($person));
     }
 }

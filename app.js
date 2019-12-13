@@ -26,7 +26,7 @@
             let self = this;
             self.currentLetter = letter;
 
-            fetch('./html/' + letter + '.portraits.html')
+            fetch('./html/' + letter.replace('_', '0') + '.portraits.html')
                 .then(response => {
                     return response.text()
                 })
