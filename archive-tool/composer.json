@@ -1,0 +1,25 @@
+{
+    "name": "phpetra/redeenportret",
+    "description": "Converts RedEenPortret xml dump to a thing",
+    "license": "BSD-3-Clause",
+    "type": "project",
+    "authors": [
+        {
+            "name": "PHPetra",
+            "email": "phpetra@xs4all.nl"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "PhPetra\\Rep\\": "src"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {
+        "fluentdom/fluentdom": "^7.3",
+        "league/csv": "^9.3",
+        "ext-simplexml": "*",
+        "ext-json": "*",
+        "cocur/slugify": "^3.2"
+    }
+}
