@@ -1,6 +1,7 @@
 # Red de verhalen van Red Een Portret
 
 Eenvoudige statische site om de verhalen van redeenportret.nl te archiveren. 
+Zie: [https://phpetra.github.io/red-een-portret/](https://phpetra.github.io/red-een-portret/)
 
 ## Wat te runnen en wanneer
 
