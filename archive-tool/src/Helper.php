@@ -43,7 +43,9 @@ final class Helper
         if ($name) {
             $letter = strtolower(mb_substr($name, 0, 1));
         }
-
+        if ($name === 'Öfner') {
+            return $letter = 'O';
+        }
         if (! $letter || !ctype_alpha($letter)) {
             $letter = self::NO_LETTER;
         }
