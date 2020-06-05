@@ -1,49 +1,31 @@
 [
     {
-        "name": "Zicht vanaf Gebouw Hirsch (Leidscheplein) richting Overtoom",
-        "letter": "_",
-        "sortName": "(Leidscheplein) richting Overtoom, Zicht vanaf Gebouw Hirsch",
-        "uri": "leidscheplein-richting-overtoom-zicht-vanaf-gebouw-hirsch"
-    },
-    {
-        "name": "Top (van Rhijn-) Naeff",
-        "letter": "_",
-        "sortName": "(van Rhijn-) Naeff, Top",
-        "uri": "van-rhijn-naeff-top"
-    },
-    {
-        "name": "Top (van Rhijn-)Naeff",
-        "letter": "_",
-        "sortName": "(van Rhijn-)Naeff, Top",
-        "uri": "van-rhijn-naeff-top"
-    },
-    {
         "name": "Koningslaan 12",
-        "letter": "_",
+        "letter": "0",
         "sortName": "12, Koningslaan",
         "uri": "12-koningslaan"
     },
     {
         "name": "P.C. Hoofstraat 180",
-        "letter": "_",
+        "letter": "0",
         "sortName": "180, P.C. Hoofstraat",
         "uri": "180-p-c-hoofstraat"
     },
     {
         "name": "Van Eeghenlaan 20",
-        "letter": "_",
+        "letter": "0",
         "sortName": "20, Van Eeghenlaan",
         "uri": "20-van-eeghenlaan"
     },
     {
         "name": "Vondestraat 89 en 91",
-        "letter": "_",
+        "letter": "0",
         "sortName": "89 en 91, Vondestraat",
         "uri": "89-en-91-vondestraat"
     },
     {
         "name": "Vondelstraat 89",
-        "letter": "_",
+        "letter": "0",
         "sortName": "89, Vondelstraat",
         "uri": "89-vondelstraat"
     },
@@ -372,52 +354,16 @@
         "uri": "amstel-emilia-van"
     },
     {
-        "name": "Flatgebouw 'De Wolkenkrabber' Amsterdam",
-        "letter": "a",
-        "sortName": "Amsterdam, Flatgebouw 'De Wolkenkrabber'",
-        "uri": "amsterdam-flatgebouw-de-wolkenkrabber"
-    },
-    {
-        "name": "Gebouw 'De Wolkenkrabber' Amsterdam",
-        "letter": "a",
-        "sortName": "Amsterdam, Gebouw 'De Wolkenkrabber'",
-        "uri": "amsterdam-gebouw-de-wolkenkrabber"
-    },
-    {
-        "name": "Gebouw De Wolkenkrabber Amsterdam",
-        "letter": "a",
-        "sortName": "Amsterdam, Gebouw De Wolkenkrabber",
-        "uri": "amsterdam-gebouw-de-wolkenkrabber"
-    },
-    {
         "name": "Leidsegracht 96 Amsterdam",
         "letter": "a",
         "sortName": "Amsterdam, Leidsegracht 96",
         "uri": "amsterdam-leidsegracht-96"
     },
     {
-        "name": "Linguaphone Instituut Amsterdam",
-        "letter": "a",
-        "sortName": "Amsterdam, Linguaphone Instituut",
-        "uri": "amsterdam-linguaphone-instituut"
-    },
-    {
-        "name": "Oudekerksplein Amsterdam",
-        "letter": "a",
-        "sortName": "Amsterdam, Oudekerksplein",
-        "uri": "amsterdam-oudekerksplein"
-    },
-    {
         "name": "Spuistraat Amsterdam",
         "letter": "a",
         "sortName": "Amsterdam, Spuistraat",
         "uri": "amsterdam-spuistraat"
-    },
-    {
-        "name": "buitenwijk Amsterdam",
-        "letter": "a",
-        "sortName": "Amsterdam, buitenwijk",
-        "uri": "amsterdam-buitenwijk"
     },
     {
         "name": "Anna Helena van Andel",
@@ -9546,12 +9492,6 @@
         "uri": "insinger-francois-gerard"
     },
     {
-        "name": "Hoek Sumatrastraat Insulindeweg",
-        "letter": "i",
-        "sortName": "Insulindeweg, Hoek Sumatrastraat",
-        "uri": "insulindeweg-hoek-sumatrastraat"
-    },
-    {
         "name": "Arie van Iperen",
         "letter": "i",
         "sortName": "Iperen, Arie van",
@@ -11158,18 +11098,6 @@
         "letter": "k",
         "sortName": "Koning, Tineke",
         "uri": "koning-tineke"
-    },
-    {
-        "name": "Herbermann (nrs 12-14) en Broekmans (nr 16) Koningsplein Amsterdam",
-        "letter": "k",
-        "sortName": "Koningsplein Amsterdam, Herbermann (nrs 12-14) en Broekmans (nr 16)",
-        "uri": "koningsplein-amsterdam-herbermann-nrs-12-14-en-broekmans-nr-16"
-    },
-    {
-        "name": "Nieuw Engeland Koningsplein Amsterdam",
-        "letter": "k",
-        "sortName": "Koningsplein Amsterdam, Nieuw Engeland",
-        "uri": "koningsplein-amsterdam-nieuw-engeland"
     },
     {
         "name": "Anna Konopski",
@@ -12870,36 +12798,6 @@
         "uri": "leidensdorff-hessel"
     },
     {
-        "name": "Bouw Gebouw Hirsch Leidscheplein",
-        "letter": "l",
-        "sortName": "Leidscheplein, Bouw Gebouw Hirsch",
-        "uri": "leidscheplein-bouw-gebouw-hirsch"
-    },
-    {
-        "name": "Gebouw Hirsch Leidscheplein",
-        "letter": "l",
-        "sortName": "Leidscheplein, Gebouw Hirsch",
-        "uri": "leidscheplein-gebouw-hirsch"
-    },
-    {
-        "name": "Oude Gebouw Hirsch Leidscheplein",
-        "letter": "l",
-        "sortName": "Leidscheplein, Oude Gebouw Hirsch",
-        "uri": "leidscheplein-oude-gebouw-hirsch"
-    },
-    {
-        "name": "Gebouw Hirsch Leidseplein",
-        "letter": "l",
-        "sortName": "Leidseplein, Gebouw Hirsch",
-        "uri": "leidseplein-gebouw-hirsch"
-    },
-    {
-        "name": "Interieur oude Gebouw Hirsch Leidseplein",
-        "letter": "l",
-        "sortName": "Leidseplein, Interieur oude Gebouw Hirsch",
-        "uri": "leidseplein-interieur-oude-gebouw-hirsch"
-    },
-    {
         "name": "Christiaan Leijnse",
         "letter": "l",
         "sortName": "Leijnse, Christiaan",
@@ -14262,6 +14160,12 @@
         "uri": "menko-martein-lion-heiman-salomon"
     },
     {
+        "name": "Miep Menko",
+        "letter": "m",
+        "sortName": "Menko, Miep",
+        "uri": "menko-miep"
+    },
+    {
         "name": "Wilma Menko",
         "letter": "m",
         "sortName": "Menko, Wilma",
@@ -14880,6 +14784,12 @@
         "uri": "naeff-anthonetta"
     },
     {
+        "name": "Top Naeff",
+        "letter": "n",
+        "sortName": "Naeff, Top",
+        "uri": "naeff-top"
+    },
+    {
         "name": "Willem Nicolaas Alexander Frederik Karel Hendrik van Nassau",
         "letter": "n",
         "sortName": "Nassau, Willem Nicolaas Alexander Frederik Karel Hendrik van",
@@ -15274,12 +15184,6 @@
         "letter": "o",
         "sortName": "Otto, Helena Stephanie Jeanne Maria",
         "uri": "otto-helena-stephanie-jeanne-maria"
-    },
-    {
-        "name": "Hotel Terminus Oudekerksplein",
-        "letter": "o",
-        "sortName": "Oudekerksplein, Hotel Terminus",
-        "uri": "oudekerksplein-hotel-terminus"
     },
     {
         "name": "Maria Catharina Elisabeth van Ouwel",
@@ -22032,12 +21936,6 @@
         "uri": "veugen-victor-hubert"
     },
     {
-        "name": "Gebouw De Wolkenkrabber Victorieplein",
-        "letter": "v",
-        "sortName": "Victorieplein, Gebouw De Wolkenkrabber",
-        "uri": "victorieplein-gebouw-de-wolkenkrabber"
-    },
-    {
         "name": "Gabriël Vigeveno",
         "letter": "v",
         "sortName": "Vigeveno, Gabriël",
@@ -23850,12 +23748,6 @@
         "uri": "wilkinson-peggy-c-m"
     },
     {
-        "name": "Hoek Maarten Harpertszoon Trompstraat Willem de Zwijgerlaan",
-        "letter": "w",
-        "sortName": "Willem de Zwijgerlaan, Hoek Maarten Harpertszoon Trompstraat",
-        "uri": "willem-de-zwijgerlaan-hoek-maarten-harpertszoon-trompstraat"
-    },
-    {
         "name": "Wilhelmina Jacoba Willemse",
         "letter": "w",
         "sortName": "Willemse, Wilhelmina Jacoba",
@@ -24606,18 +24498,6 @@
         "uri": "zuercher-wouter"
     },
     {
-        "name": "Gebouw Hirsch atelier Merkelbach",
-        "letter": "a",
-        "sortName": "atelier Merkelbach, Gebouw Hirsch",
-        "uri": "atelier-merkelbach-gebouw-hirsch"
-    },
-    {
-        "name": "Philips klok met dito radio bakeliet ('Philite')",
-        "letter": "b",
-        "sortName": "bakeliet ('Philite'), Philips klok met dito radio",
-        "uri": "bakeliet-philite-philips-klok-met-dito-radio"
-    },
-    {
         "name": "Donald Theodore baron Mackay (1910-1992)",
         "letter": "b",
         "sortName": "baron Mackay (1910-1992), Donald Theodore",
@@ -24646,30 +24526,6 @@
         "letter": "b",
         "sortName": "barones van Heeckeren, Sophie Emilie",
         "uri": "barones-van-heeckeren-sophie-emilie"
-    },
-    {
-        "name": "Mies Merkelbach bij NSF 4 radio",
-        "letter": "b",
-        "sortName": "bij NSF 4 radio, Mies Merkelbach",
-        "uri": "bij-nsf-4-radio-mies-merkelbach"
-    },
-    {
-        "name": "Hoek Leidschestraat - Prinsengracht blik naar Koningsplein",
-        "letter": "b",
-        "sortName": "blik naar Koningsplein, Hoek Leidschestraat - Prinsengracht",
-        "uri": "blik-naar-koningsplein-hoek-leidschestraat-prinsengracht"
-    },
-    {
-        "name": "Gerrit van der Veenstraat blik richting Apollolaan",
-        "letter": "b",
-        "sortName": "blik richting Apollolaan, Gerrit van der Veenstraat",
-        "uri": "blik-richting-apollolaan-gerrit-van-der-veenstraat"
-    },
-    {
-        "name": "Stadionweg ter hoogte van de Verdistraat blik richting Apollolaan",
-        "letter": "b",
-        "sortName": "blik richting Apollolaan, Stadionweg ter hoogte van de Verdistraat",
-        "uri": "blik-richting-apollolaan-stadionweg-ter-hoogte-van-de-verdistraat"
     },
     {
         "name": "Hoek Spuistraat - Raamsteeg blik richting Spui",
@@ -24810,12 +24666,6 @@
         "uri": "geb-broekema-catharina-jacoba-gertrude"
     },
     {
-        "name": "Leidschestraat 20 genomen uit raam bovenverdieping nummer 13(?)",
-        "letter": "g",
-        "sortName": "genomen uit raam bovenverdieping nummer 13(?), Leidschestraat 20",
-        "uri": "genomen-uit-raam-bovenverdieping-nummer-13-leidschestraat-20"
-    },
-    {
         "name": "ingetje carolina van gestel van kekem",
         "letter": "g",
         "sortName": "gestel van kekem, ingetje carolina van",
@@ -24826,12 +24676,6 @@
         "letter": "g",
         "sortName": "gestel, marie anne en paul van",
         "uri": "gestel-marie-anne-en-paul-van"
-    },
-    {
-        "name": "Van Tuyll van Serooskerkenweg gezien vanaf de Jasonstraat richting Stadion",
-        "letter": "g",
-        "sortName": "gezien vanaf de Jasonstraat richting Stadion, Van Tuyll van Serooskerkenweg",
-        "uri": "gezien-vanaf-de-jasonstraat-richting-stadion-van-tuyll-van-serooskerkenweg"
     },
     {
         "name": "Marie Alexandrine Otheline Caroline gravin van Bylandt",
@@ -24886,12 +24730,6 @@
         "letter": "k",
         "sortName": "kahn, Rosemary",
         "uri": "kahn-rosemary"
-    },
-    {
-        "name": "experimentele kleurenfotografie",
-        "letter": "k",
-        "sortName": "kleurenfotografie, experimentele",
-        "uri": "kleurenfotografie-experimentele"
     },
     {
         "name": "Helena Cornelia Juditha knoppert",
@@ -24984,12 +24822,6 @@
         "uri": "onbekend-onbekend"
     },
     {
-        "name": "Italiaanse bandrecorder opzetrecorder",
-        "letter": "o",
-        "sortName": "opzetrecorder, Italiaanse bandrecorder",
-        "uri": "opzetrecorder-italiaanse-bandrecorder"
-    },
-    {
         "name": "heleen pimentel",
         "letter": "p",
         "sortName": "pimentel, heleen",
@@ -25042,24 +24874,6 @@
         "letter": "t",
         "sortName": "ter hoogte van de Laplacestraat, Blik in de Copernicusstraat",
         "uri": "ter-hoogte-van-de-laplacestraat-blik-in-de-copernicusstraat"
-    },
-    {
-        "name": "Stadionweg blik richting Apollolaan ter hoogte van de Mozartkade",
-        "letter": "t",
-        "sortName": "ter hoogte van de Mozartkade, Stadionweg blik richting Apollolaan",
-        "uri": "ter-hoogte-van-de-mozartkade-stadionweg-blik-richting-apollolaan"
-    },
-    {
-        "name": "Gebouw Hirsch tijdelijke vestiging?",
-        "letter": "t",
-        "sortName": "tijdelijke vestiging?, Gebouw Hirsch",
-        "uri": "tijdelijke-vestiging-gebouw-hirsch"
-    },
-    {
-        "name": "Philips klok met dito radio uitvoering in Philite",
-        "letter": "u",
-        "sortName": "uitvoering in Philite, Philips klok met dito radio",
-        "uri": "uitvoering-in-philite-philips-klok-met-dito-radio"
     },
     {
         "name": "Helena Henriette van Buttingha Wichers-Laman de Vries",
@@ -25176,18 +24990,6 @@
         "uri": "van-der-meulen-albertine-wilhelmina"
     },
     {
-        "name": "blik op de Mozartkade, Amsterdam vanaf de Reijnier Vinkeleskade",
-        "letter": "v",
-        "sortName": "vanaf de Reijnier Vinkeleskade, blik op de Mozartkade, Amsterdam",
-        "uri": "vanaf-de-reijnier-vinkeleskade-blik-op-de-mozartkade-amsterdam"
-    },
-    {
-        "name": "Blik in Pythagorasstraat vanuit de Copernicusstraat, richting Hogeweg",
-        "letter": "v",
-        "sortName": "vanuit de Copernicusstraat, richting Hogeweg, Blik in Pythagorasstraat",
-        "uri": "vanuit-de-copernicusstraat-richting-hogeweg-blik-in-pythagorasstraat"
-    },
-    {
         "name": "Bouwe Jan veeze",
         "letter": "v",
         "sortName": "veeze, Bouwe Jan",
@@ -25200,14 +25002,8 @@
         "uri": "wulp-arie-willem-van-der"
     },
     {
-        "name": "hoek Stadionweg - Stadionplein zicht op Stadion",
-        "letter": "z",
-        "sortName": "zicht op Stadion, hoek Stadionweg - Stadionplein",
-        "uri": "zicht-op-stadion-hoek-stadionweg-stadionplein"
-    },
-    {
         "name": "Toni Öfner",
-        "letter": "_",
+        "letter": "O",
         "sortName": "Öfner, Toni",
         "uri": "oefner-toni"
     }
